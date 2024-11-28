@@ -12,7 +12,6 @@ export default function Index() {
 		<>
 			<Navbar active='projects' />
 			<main style={{ width: '100vw', overflowX: 'hidden' }}>
-				<ThisWebsite />
 				<Projects data={projects} />
 			</main>
 			<Wave />

@@ -1,27 +1,36 @@
 {
 	"ontheway": {
-		"title": "On The Way",
+		"title": "On the way",
 		"description": "Student Counselling System",
-		"githubUrl": "https://github.com/Sneakyhydra/On-The-Way",
+		"githubUrl": "https://github.com/Rahul07-dev/On-the-way",
 		"techStack": ["React", "Node", "MySQL"],
 		"liveUrl": "https://on-the-way-sneakyhydra.vercel.app/"
 	},
-	"sentinel": {
-		"title": "Sentinel",
-		"description": "Offline Voice Assistant",
-		"githubUrl": "https://github.com/Sneakyhydra/Sentinel",
-		"techStack": ["Python"]
+	"Trenders": {
+		"title": "trenders",
+		"description": "Ecommerce Web App",
+		"githubUrl": "https://github.com/Rahul07-dev/trenders",
+		"techStack": ["React", "NodeJs", "MongoDB"],
+		"liveUrl": "https://fabulous-sopapillas-0210c7.netlify.app/"
 	},
-	"stakemate": {
-		"title": "Stake Mate",
-		"description": "Decentralized Staking Platform",
-		"githubUrl": "https://github.com/Sneakyhydra/StakeMate",
-		"techStack": ["React", "Node", "Solidity", "Truffle"]
+	"AutonomousGrassCuttingRobot":{
+		"title": "Autonomous grass cutting robot",
+		"description": "an autonomous grass cutting robot using LADAR tech",
+		"githubUrl": "",
+		"techStack": []
 	},
-	"artvault": {
-		"title": "Art Vault",
-		"description": "NFT Marketplace",
-		"githubUrl": "https://github.com/Sneakyhydra/ArtVault",
-		"techStack": ["Next", "Solidity", "Hardhat"]
+	"StudentManagementSystem":{
+		"title": "StudentManagementSystem",
+		"description": "Spring App",
+		"githubUrl": "https://github.com/Rahul07-dev/student_management_java",
+		"techStack": ["Java", "SpringBoot", "Maven"]
+	},
+	"MentorView":{
+		"title": "InstructorAllotment",
+		"description": "Student Allotment to differnt Professors, Scalar Assignment",
+		"githubUrl": "https://github.com/Rahul07-dev/Mentor-view",
+		"techStack": ["JavaScript", "React"]
 	}
+	
 }
+

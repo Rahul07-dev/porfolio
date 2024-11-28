@@ -1,2 +1,26 @@
-{
-}
+[
+    {
+        "title": "Software Engineering Intern",
+        "url": "https://corp.rakuten.co.in/",
+        "logo": "/rakuten.png",
+        "startDate": "February 2024",
+        "endDate": "August 2024",
+        "location": "Bangalore, India",
+        "role": "Software Engineer Intern",
+        "responsibilities": [
+  "Collaborated on a status dashboard for Incident Management, achieving a 40% reduction in incident resolution time.",
+  "Integrated role-based authentication using Keycloak for secure access control and incident history and report features to enhance tracking and management of incidents.",
+  "Revamped and maintained details pages for 10+ cloud services, including Lbaas (Load Balancer as a Service), Vmaas (Virtual Machine as a Service), and Caas (Containers as a Service), enhancing the visibility and management of these services.",
+  "Monitored and resolved end-to-end (e2e) test failures on a daily basis, ensuring high-quality software delivery and stability.",
+  "Collaborated with stakeholders to gather and analyze requirements for new features, ensuring alignment with business needs."
+],
+        "technologies": [
+            "React",
+            "TypeScript",
+            "Node.js",
+            "PostgreSQL",
+            "GCP"
+        ]
+    }
+    
+]

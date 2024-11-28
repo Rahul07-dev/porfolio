@@ -15,8 +15,8 @@ import BootstrapClient from '@/components/Global/BootstrapClient';
 import Script from 'next/script';
 
 export const metadata = {
-	title: 'Dhruv Rishishwar',
-	description: 'Portfolio of Dhruv Rishishwar',
+	title: 'Rahul Dev Gurjar',
+	description: 'Portfolio of Rahul Dev Gurjar',
 };
 
 export const viewport = {
