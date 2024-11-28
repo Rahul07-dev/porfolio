@@ -19,12 +19,6 @@
 		"githubUrl": "",
 		"techStack": []
 	},
-	"StudentManagementSystem":{
-		"title": "StudentManagementSystem",
-		"description": "Spring App",
-		"githubUrl": "https://github.com/Rahul07-dev/student_management_java",
-		"techStack": ["Java", "SpringBoot", "Maven"]
-	},
 	"MentorView":{
 		"title": "InstructorAllotment",
 		"description": "Student Allotment to differnt Professors, Scalar Assignment",
